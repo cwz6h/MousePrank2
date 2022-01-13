@@ -7,6 +7,6 @@ The Original Mouse Prank Was Written In C And Would Simply Print A Message And M
 ## Introduction
 Mouse Prank Would Simply Move Your Cursor And Basically Play A Joke On You. But The New One Written In C++ Warns You With An Error That If The OK Button Is Pressed (Or If The Window Was Closed) It Would Move Your Cursor A Bit More Brutal
 
-![An Example](https://imgur.com/MQwTtmC)
+![An Example](https://ibb.co/k1382qb)
 
 ##
