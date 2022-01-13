@@ -13,3 +13,7 @@ https://ibb.co/k1382qb
 ## Compiling
 
 > **g++ MousePrank2.cpp**
+
+## Notes
+
+MinGW Is **Required**
