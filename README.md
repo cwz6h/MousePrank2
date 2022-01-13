@@ -10,4 +10,6 @@ Mouse Prank Would Simply Move Your Cursor And Basically Play A Joke On You. But 
 **Example:**
 https://ibb.co/k1382qb
 
-## 
+## Compiling
+
+> **g++ MousePrank2.cpp**
